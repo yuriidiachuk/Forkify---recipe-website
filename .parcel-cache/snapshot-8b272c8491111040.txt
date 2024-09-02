@@ -1,7 +1,7 @@
 6022
 99C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\caniuse-lite\data\regions\AX.js133687155606172245 0
 117C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133687155589715111 0
-59C:\Users\dell\Desktop\Projects\project Forkify\starter\dist133687193583990951 1
+59C:\Users\dell\Desktop\Projects\project Forkify\starter\dist133697400278145273 1
 92C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\css-tree\data\patch.json133687155642526930 0
 74C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@babel133687155547467428 1
 84C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\msgpackr\pack.js133687155592587435 0
@@ -122,7 +122,7 @@
 119C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133687155639390236 0
 103C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\type-fest\source\readonly-deep.d.ts133687155598682310 0
 91C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\rust\index.d.ts133687155700938809 0
-75C:\Users\dell\Desktop\Projects\project Forkify\starter\src\js\controller.js133687193583494799 0
+75C:\Users\dell\Desktop\Projects\project Forkify\starter\src\js\controller.js133697400277477069 0
 102C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\logger\test\Logger.test.js133687155581278100 0
 119C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133687155604476778 0
 101C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133687155615653560 0
@@ -5192,7 +5192,7 @@
 108C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\reporter-cli\src\bundleReport.js133687155572689967 0
 107C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\reporter-cli\src\CLIReporter.js133687155587188340 0
 101C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\reporter-cli\src\emoji.js133687155588657992 0
-78C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\icons.21bad73c.svg133687191849091730 0
+78C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\icons.21bad73c.svg133697398805554827 0
 105C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\reporter-cli\src\logLevels.js133687155589505798 0
 140C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Function.js133687155606481528 0
 107C:\Users\dell\Desktop\Projects\project Forkify\starter\node_modules\@parcel\reporter-cli\src\phaseReport.js133687155590473119 0
@@ -6014,10 +6014,10 @@
 81C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.62406edb.js.map133687166435560859 0
 79C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\starter.3464ddca.js133687166435409403 0
 83C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\starter.3464ddca.js.map133687166435568978 0
-70C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.html133687190380749853 0
-77C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\logo.726d37a8.png133687191845058190 0
-78C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.f7626f62.css133687191846731261 0
-82C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.f7626f62.css.map133687191846883416 0
-80C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\favicon.8b2f57bf.png133687191847570964 0
-77C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.e37f48ea.js133687193583894091 0
-81C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.e37f48ea.js.map133687193583953560 0
+77C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\logo.726d37a8.png133697398804308163 0
+80C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\favicon.8b2f57bf.png133697398804597415 0
+70C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.html133697398805036234 0
+78C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.f7626f62.css133697398805305495 0
+82C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.f7626f62.css.map133697398805395248 0
+77C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.e37f48ea.js133697400278005710 0
+81C:\Users\dell\Desktop\Projects\project Forkify\starter\dist\index.e37f48ea.js.map133697400278125326 0
